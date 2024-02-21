@@ -2,183 +2,291 @@
   "tags": [
     {
       "title": "Redis",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "4e93"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "5fcb"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "7662"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "ae63"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "34b0"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "ab70"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "cd71"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "8ee9"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "bc4d"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "1dd1"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "306d"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "9e10"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "fcba"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "abd9"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "aab1"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "7bc2"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "05c6"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "ac49"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "ae4c"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "2f4d"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "7542"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "aad5"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "2fad"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "0f36"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "7645"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "efb8"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "d09d"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "0cca"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "72c2"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "ba37"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "44bc"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "6495"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "43f3"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "6292"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "da14"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "b87a"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "0010"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "bbf4"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "d429"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "e908"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "4a2f"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "0c9a"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "3403"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "c1af"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "9105"
+    },
+    {
+      "id": "3607",
+      "title": "asdasdasdasd",
+      "slug": "asdasdasdasd",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "a1e9",
+      "title": "tag nova",
+      "slug": "tag-nova",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "d8ff",
+      "title": "agora vai",
+      "slug": "agora-vai",
+      "amountOfVideos": 0
     }
   ]
 }
